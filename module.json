@@ -1,0 +1,13 @@
+{
+    "name": "Escale",
+    "alias": "escale",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Escale\\Providers\\EscaleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

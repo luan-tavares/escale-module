@@ -1,12 +1,7 @@
 {
-    "name": "nwidart/escale",
+    "name": "luan-tavares/escale-module",
     "description": "",
-    "authors": [
-        {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
-        }
-    ],
+    "type": "laravel-module",
     "extra": {
         "laravel": {
             "providers": [],
